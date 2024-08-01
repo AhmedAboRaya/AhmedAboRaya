@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abo-Raya</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<img align="center" width="800" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="Coding">
+<img align="center" width="900" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="Coding">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedaboraya&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaboraya" /> </p>
 
