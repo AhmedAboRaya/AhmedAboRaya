@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abo-Raya</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+
 <img align="center" width="900" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="Coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaboraya&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaboraya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedaboraya&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaboraya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
