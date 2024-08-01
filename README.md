@@ -3,22 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaboraya&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaboraya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedaboraya" alt="ahmedaboraya" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@ahmedma27931006" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmedma27931006?logo=twitter&style=for-the-badge" alt="@ahmedma27931006" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ahmed mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmed mahmoud" height="30" width="40" /></a>
-<a href="https://twitter.com/@ahmedma27931006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahmedma27931006" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed abo-raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed abo-raya" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed mahmoud" height="30" width="40" /></a>
-<a href="https://instagram.com/abo_raya1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abo_raya1212" height="30" width="40" /></a>
-<a href="https://discord.gg/_aboraya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_aboraya" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/ahmed_abo-raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ahmed_abo-raya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-abo-raya-3a3112217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-abo-raya-3a3112217/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100016644704372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100016644704372" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/abo_raya1212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abo_raya1212/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
